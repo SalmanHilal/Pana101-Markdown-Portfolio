@@ -45,7 +45,13 @@ Below is the complete chronological history of all prompts provided during this 
 * **Technical Implementation:** Compiled this full markdown guide capturing the entire iteration lifespan of the development workspace.
 
 ---
+## 🚀 Features Inside the Current Build
+* 🌓 **Dynamic Theme Engine:** Pure vanilla JavaScript logic for instant light and dark mode data-attribute switches without breaking element visibility.
+* 📱 **Responsive Layout:** Grid layout updates adapting cleanly down to narrow mobile screen resolutions.
+* 📈 **Interactive Skill System:** Intersection Observer animations rendering progress bars fluidly as the user scrolls into view.
+* 🔍 **Portfolio Tag Filter:** Instant category sorting (PHP, Shopify, WordPress, UI Design) without DOM reloading overhead.
 
+---
 ## 📂 Asset Structure Guide
 
 To run this repository locally with complete visual assets, ensure your downloaded image files are structured in the following directory layout relative to your `index.html` file:
@@ -74,10 +80,4 @@ To run this repository locally with complete visual assets, ensure your download
             ├── design-to-html1.jpg
             ├── wp-to-html.jpg
             ├── slider-integration.jpg
-            └── react-native.jpg```
-
-## 🚀 Features Inside the Current Build
-* 🌓 **Dynamic Theme Engine:** Pure vanilla JavaScript logic for instant light and dark mode data-attribute switches without breaking element visibility.
-* 📱 **Responsive Layout:** Grid layout updates adapting cleanly down to narrow mobile screen resolutions.
-* 📈 **Interactive Skill System:** Intersection Observer animations rendering progress bars fluidly as the user scrolls into view.
-* 🔍 **Portfolio Tag Filter:** Instant category sorting (PHP, Shopify, WordPress, UI Design) without DOM reloading overhead.
+            └── react-native.jpg
